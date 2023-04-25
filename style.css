@@ -1,0 +1,11 @@
+body {
+    background-image: url("ola.jpg");
+}
+#ae {
+    color: red;
+}
+button {
+    background-color: blue;
+    color: cyan;
+    border-radius: 10px;
+}
